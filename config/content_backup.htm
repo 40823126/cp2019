@@ -14,3 +14,26 @@
 <p><img alt="" height="360" src="/images/3.png" width="550"/></p>
 <p></p>
 <p><img alt="" height="355" src="/images/2.png" width="550"/></p>
+<h2>w12溫度轉換</h2>
+<p></p>
+<pre></pre>
+<script>
+function getDart(dirname){
+    source = "https://dartpad.github.io/embed-dart.html?gh_owner=40823126&gh_repo=cp2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+    document.getElementById("iframe").src = source ;
+}
+function largest(){
+document.getElementById("iframe").width = document.body.clientWidth ;
+document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
+}
+function original(){
+document.getElementById("iframe").width = 1200 ;
+document.getElementById("iframe").height = 800 ;
+}
+</script>
+<!-- 取 Dart 程式的按鈕 -->
+<p><button onclick="getDart('華氏轉攝氏')">華氏轉攝氏</button></p>
+<p><button onclick="getDart('攝氏轉華氏')">攝氏轉華氏</button></p>
+<!-- 內建放入的 Dart 原始碼 -->
+<p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
+<p><iframe height="800" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823126&amp;gh_repo=cp2019ag1&amp;gh_path=downloads/dart_ex/華氏轉攝氏&amp;theme=dark" width="1200"></iframe></p>
