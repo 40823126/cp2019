@@ -46,15 +46,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## 40823126 網誌
 
 ### KMOLab
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40823126](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[40823126 網誌](./../blog/index.html)
 
 
 </t>
@@ -91,7 +91,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180902120523.15"># 重量轉換
 
-&lt;iframe width="1200" height="800" src="https://dartpad.github.io/embed-html.html?gh_owner=40823126&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/重量轉換&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1200" height="800" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823126&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/重量轉換&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     &lt;/script&gt;</t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
