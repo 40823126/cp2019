@@ -30,6 +30,7 @@
 </v>
 <v t="leo.20180902120523.16"><vh>溫度轉換</vh>
 <v t="leo.20180902120523.17"><vh>溫度轉換01</vh></v>
+<v t="leo.20200108221218.1"><vh>溫度轉換02</vh></v>
 </v>
 <v t="leo.20180902120523.18"><vh>各國國旗</vh>
 <v t="leo.20200108215025.1"><vh>各國國旗01</vh></v>
@@ -104,7 +105,11 @@ Created by [40823126](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.17"></t>
+<t tx="leo.20180902120523.17">#溫度轉換
+
+&lt;iframe width="1200" height="800" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823126&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/攝氏轉華氏&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -284,7 +289,15 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200108215025.1"></t>
+<t tx="leo.20200108215025.1">&lt;iframe width="1200" height="800" src="https://dartpad.github.io/embed-html.html?gh_owner=40823126&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/flag&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+    &lt;/script&gt;</t>
 <t tx="leo.20200108215044.1"></t>
+<t tx="leo.20200108221218.1">#溫度轉換
+
+&lt;iframe width="1200" height="800" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823126&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/華氏轉攝氏&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
