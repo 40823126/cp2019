@@ -303,7 +303,16 @@ vertical: body pane on the botton</t>
 &lt;iframe width="1200" height="800" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823126&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/華氏轉攝氏&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200108221727.1"></t>
+<t tx="leo.20200108221727.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						</t>
 <t tx="leo.20200108221752.1"></t>
 </tnodes>
 </leo_file>
