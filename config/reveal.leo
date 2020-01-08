@@ -299,7 +299,11 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
     &lt;/script&gt;</t>
-<t tx="leo.20200108215044.1"></t>
+<t tx="leo.20200108215044.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200108221218.1">#溫度轉換-
 
 &lt;iframe width="1200" height="800" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823126&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/華氏轉攝氏&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -315,6 +319,8 @@ vertical: body pane on the botton</t>
 
 
 						</t>
-<t tx="leo.20200108221752.1"></t>
+<t tx="leo.20200108221752.1">#心得
+
+這堂計算機程式的課程是我第一次接觸的課程，從一開始甚麼都不會，到現在學會了一些基本的程式應用，到了學期末，做了溫度轉換、重量轉換、還有畫一些國旗。感謝老師認真的教導，讓我學到了更多知識，希望以後的課程我可以更精進自己程式語言的能力。</t>
 </tnodes>
 </leo_file>
